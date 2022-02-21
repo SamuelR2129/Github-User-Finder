@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+Using React, I used the Github API to pull users information down and display their statistics in a formated design, using hooks like useState, Effect and Reducer. I also broke the code up into different Contexts and have deployed it to Netlify
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Github-User-Finder
